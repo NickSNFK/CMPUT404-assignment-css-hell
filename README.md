@@ -12,6 +12,11 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+
+For ensuring the html files had the css that I added, I added a stylesheet link to the html files
+pointing to the a3.css file. I also changed the cover image names to allow them to be in the same folder.
+
+
 License/Copyright
 =================
 
@@ -20,5 +25,13 @@ Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
+
+File a3.css is liscensed under CC-BY-SA and was contributed by:
+
+* Nicholas Wielgus
+
+Pictures gutenburg1.png, gutenburg2.png, and gutenburg3.png are contributed by:
+
+* Nicholas Wielgus
 
 

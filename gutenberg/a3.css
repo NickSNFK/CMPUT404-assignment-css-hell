@@ -1,0 +1,29 @@
+/* This style component was written by Nicholas Wielgus, Feb 2023. */
+body {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  background-color: rgb(255, 239, 216);
+}
+hr {
+  border: 1px solid black;
+}
+h1, h2, h3 {
+  font-style: italic;
+  background-color: rgb(207, 191, 167);
+  background-image: radial-gradient(closest-side,rgba(0, 0, 0, 0), rgb(255, 239, 216));
+}
+div.figcenter {
+  background-color: rgb(255, 239, 216);
+}
+img {
+  mix-blend-mode: multiply;
+}
+.ph1 {
+  font-size: small;
+}
+.caption {
+  font-size: small;
+  font-style: italic;
+}
+p{
+  font-style: oblique;
+}
