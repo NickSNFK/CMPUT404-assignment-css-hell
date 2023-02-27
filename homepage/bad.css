@@ -1,0 +1,162 @@
+body {
+  font-style: italic;
+  text-decoration: none;
+  font-family: "Comic Sans MS", "Comic Sans";
+  color: black;
+  background-color:aliceblue;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  /*
+  Below footer fix from:
+  User: mathandy
+  Date: Aug 17, 2021
+  Date Accessed: February 26, 2023
+  Website: https://stackoverflow.com/users/1918127/mathandy
+  Link: https://stackoverflow.com/questions/16244821/how-to-stop-sticky-footer-from-covering-content
+  */
+  margin-bottom: 200px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.text-super {
+  font-size: 48px;
+}
+
+.text-xl {
+  font-size: x-large;
+}
+.text-xxl {
+  font-size: xx-large;
+}
+.text-m {
+  font-size: medium;
+}
+.text-s {
+  font-size: small;
+}
+.text-l {
+  font-size: large;
+}
+
+ul.navbar {
+  position: fixed;
+  top: 0;
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  width: 100%;
+  margin: 0;
+  background-color:chartreuse;
+  border-bottom: 5px solid black;
+}
+
+a {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  text-align: center;
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+  color: grey;
+}
+
+.container-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: center;
+  margin: 2%;
+}
+
+.col {
+  text-align: left;
+  background-color: rgb(189, 40, 40);
+  border-radius: 10000px;
+  margin: 1%;
+  padding: 15%;
+  border: 5px solid chartreuse;
+}
+
+.sidebar {
+  text-align: center;
+  height: fit-content;
+}
+
+h1,h2,h3 {
+  font-style:normal;
+  color:chartreuse;
+}
+
+h3 {
+  border-bottom: 1px solid white;
+}
+
+p {
+  text-indent: 40px;
+  line-height: 1.5em;
+}
+
+.portrait {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+  border: 5px solid chartreuse;
+  filter: grayscale(100%);
+}
+
+.image-overlay {
+  text-shadow: 2px 2px 4px #000;
+  margin: 1%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  text-align: center;
+  width: fit-content;
+  background-color: rgb(189, 40, 40);
+}
+
+.center-left {
+  position: absolute;
+  left: 33%;
+  transform: translate(-50%);
+}
+
+/*
+Below footer fix from:
+User: mathandy
+Date: Aug 17, 2021
+Date Accessed: February 26, 2023
+Website: https://stackoverflow.com/users/1918127/mathandy
+Link: https://stackoverflow.com/questions/16244821/how-to-stop-sticky-footer-from-covering-content
+*/
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 200px;
+  padding: 2%;
+  background-color: rgb(189, 40, 40);
+}
+
+.footer ul {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}

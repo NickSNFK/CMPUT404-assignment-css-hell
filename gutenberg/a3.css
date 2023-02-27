@@ -15,6 +15,7 @@ div.figcenter {
   background-color: rgb(255, 239, 216);
 }
 img {
+  filter: grayscale(100%);
   mix-blend-mode: multiply;
 }
 .ph1 {

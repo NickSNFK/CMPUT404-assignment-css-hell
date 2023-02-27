@@ -26,11 +26,18 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-File a3.css is liscensed under CC-BY-SA and was contributed by:
+Footer in good.css and bad.css based on:
+* User: mathandy
+  Date: Aug 17, 2021
+  Date Accessed: February 26, 2023
+  Website: https://stackoverflow.com/users/1918127/mathandy
+  Link: https://stackoverflow.com/questions/16244821/how-to-stop-sticky-footer-from-covering-content
+
+File a3.css, good.html, good.css, bad.html, bad.css is liscensed under CC-BY-SA and was contributed by:
 
 * Nicholas Wielgus
 
-Pictures gutenburg1.png, gutenburg2.png, and gutenburg3.png are contributed by:
+Pictures main.jpg, good.png, bad.png, gutenburg1.png, gutenburg2.png, and gutenburg3.png are contributed by:
 
 * Nicholas Wielgus
 
