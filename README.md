@@ -26,14 +26,14 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-Footer in good.css and bad.css based on:
+Footer in good.css and ugly.css based on:
 * User: mathandy
   Date: Aug 17, 2021
   Date Accessed: February 26, 2023
   Website: https://stackoverflow.com/users/1918127/mathandy
   Link: https://stackoverflow.com/questions/16244821/how-to-stop-sticky-footer-from-covering-content
 
-File a3.css, good.html, good.css, bad.html, bad.css is liscensed under CC-BY-SA and was contributed by:
+File a3.css, good.html, good.css, ugly.html, ugly.css is liscensed under CC-BY-SA and was contributed by:
 
 * Nicholas Wielgus
 
